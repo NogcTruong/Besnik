@@ -73,6 +73,10 @@ a {
   padding: 12px 0;
 }
 
+.fixed-header .icon-logo {
+  cursor: pointer;
+}
+
 .navbar ul {
   display: flex;
   margin-left: 50px;
